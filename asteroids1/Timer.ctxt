@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Timer
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=boolean\ counter()
+comment3.params=
+comment3.target=void\ setTime()
+comment3.text=\ \n\ \ \ \ private\ void\ display()\n\ \ \ \ {\n\ \ \ \ \ \ \ \ setImage(new\ GreenfootImage("time\ left\ before\ next\ wave\:\ "\ +\ time,\ 30,\ Color.WHITE,\ Color.BLACK));\n\ \ \ \ }\n
+comment4.params=
+comment4.target=boolean\ isTimeUp()
+numComments=5
