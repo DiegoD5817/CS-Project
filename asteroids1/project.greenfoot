@@ -1,5 +1,5 @@
 #Greenfoot properties
-#Thu May 03 19:43:42 PDT 2018
+#Tue May 08 18:05:21 PDT 2018
 editor.fx.0.height=722
 target2.width=80
 target5.naviview.expanded=true
@@ -142,8 +142,8 @@ class.Actor.superclass=
 target1.typeParameters=
 target3.width=80
 target4.width=90
-target1.editor.y=23
 dependency7.from=Rocket
+target1.editor.y=23
 target1.editor.x=285
 target5.width=80
 dependency4.to=Vector
