@@ -16,8 +16,8 @@ public class SecondRocket extends Mover
     private Vector acceleration;            // A vector used to accelerate when using booster.
     private int shotsFired;                 // Number of shots fired.
     
-    private GreenfootImage rocket = new GreenfootImage("rocket.png");
-    private GreenfootImage rocketWithThrust = new GreenfootImage("rocketWithThrust.png");
+    private GreenfootImage rocket = new GreenfootImage("rocket2.png");
+    private GreenfootImage rocketWithThrust = new GreenfootImage("rocketWithThrust2.png");
 
     /**
      * Initialise this rocket.

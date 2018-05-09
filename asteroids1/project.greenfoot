@@ -1,6 +1,6 @@
 #Greenfoot properties
-#Tue May 08 19:04:27 PDT 2018
-editor.fx.0.height=722
+#Tue May 08 19:07:33 PDT 2018
+editor.fx.0.height=0
 target2.width=80
 target8.name=Vector
 target5.naviview.expanded=true
@@ -73,9 +73,9 @@ class.Rocket.image=rocket.png
 dependency7.type=UsesDependency
 target1.naviview.expanded=true
 version=3.0.0
-editor.fx.0.y=24
+editor.fx.0.y=0
 target5.editor.width=785
-editor.fx.0.x=240
+editor.fx.0.x=0
 dependency6.to=Vector
 target2.showInterface=false
 dependency1.from=Mover
@@ -100,7 +100,7 @@ target6.editor.x=101
 target5.editor.height=727
 dependency10.type=UsesDependency
 class.Explosion.superclass=greenfoot.Actor
-editor.fx.0.width=800
+editor.fx.0.width=0
 dependency2.to=Explosion
 target9.y=130
 target9.x=200
